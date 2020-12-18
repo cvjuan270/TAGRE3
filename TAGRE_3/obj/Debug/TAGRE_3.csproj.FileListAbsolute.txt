@@ -1,0 +1,15 @@
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\bin\Debug\TAGRE_3.exe.config
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\bin\Debug\TAGRE_3.exe
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\bin\Debug\TAGRE_3.pdb
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\View\DashBoardView.g.cs
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\App.g.cs
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\TAGRE_3_MarkupCompile.cache
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\TAGRE_3_MarkupCompile.lref
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\View\DashBoardView.baml
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\TAGRE_3.g.resources
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\TAGRE_3.Properties.Resources.resources
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\TAGRE_3.csproj.GenerateResource.cache
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\TAGRE_3.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\TAGRE_3.exe
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\TAGRE_3.pdb
+C:\Users\JUAN\source\repos\TAGRE_3\TAGRE_3\obj\Debug\View\icons.baml
